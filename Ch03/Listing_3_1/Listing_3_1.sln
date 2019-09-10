@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing_3_1", "Listing_3_1\Listing_3_1.csproj", "{695AA9BF-7E2E-4021-80C5-F5B9EF3087D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RVJ.Core", "RVJ.Core\RVJ.Core.csproj", "{FC56A95B-9461-49EE-AFAB-A487FE91C082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{695AA9BF-7E2E-4021-80C5-F5B9EF3087D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695AA9BF-7E2E-4021-80C5-F5B9EF3087D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695AA9BF-7E2E-4021-80C5-F5B9EF3087D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695AA9BF-7E2E-4021-80C5-F5B9EF3087D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC56A95B-9461-49EE-AFAB-A487FE91C082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC56A95B-9461-49EE-AFAB-A487FE91C082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC56A95B-9461-49EE-AFAB-A487FE91C082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC56A95B-9461-49EE-AFAB-A487FE91C082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF6AAD74-4E3C-412C-8EAA-BA969EE0E97E}
+	EndGlobalSection
+
+EndGlobal

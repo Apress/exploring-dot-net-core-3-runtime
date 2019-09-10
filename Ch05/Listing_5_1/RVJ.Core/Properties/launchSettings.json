@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RVJ.Core": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
